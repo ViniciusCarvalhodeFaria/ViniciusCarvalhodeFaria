@@ -3,6 +3,7 @@
 **🇧🇷 PT-BR** — Estudante de Engenharia da Computação, co-fundador e responsável pelo banco de dados da **[Efficience Co](https://github.com/EfficienceCo/EfficienceCo)**, startup que desenvolve automações sob medida para escritórios de contabilidade e back-office. Foco atual em modelagem de dados, PostgreSQL, Supabase e desenvolvimento backend.
 
 **🇬🇧 EN** — Computer Engineering student, co-founder and database lead at **[Efficience Co](https://github.com/EfficienceCo/EfficienceCo)**, a startup building custom automation software for accounting and back-office firms. Currently focused on data modeling, PostgreSQL, Supabase, and backend development.
+
 ---
 
 ### 🚀 What I'm working on
@@ -27,4 +28,8 @@ I own the **database layer** (PostgreSQL + Supabase: schema, migrations, RLS).
 
 ---
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=ViniciusCarvalhodeFaria&show_icons=true&theme=default&hide_title=true&hide_border=true" />
+### 📊 Contribuições
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusCarvalhodeFaria&show_icons=true&theme=default&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCarvalhodeFaria&theme=github-compact&hide_border=true)
