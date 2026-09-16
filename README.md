@@ -30,8 +30,6 @@ I own the **database layer** (PostgreSQL + Supabase: schema, migrations, RLS).
 
 ### 📊 Contribuições
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusCarvalhodeFaria&show_icons=true&theme=default&hide_border=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCarvalhodeFaria/ViniciusCarvalhodeFaria/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusCarvalhodeFaria/ViniciusCarvalhodeFaria/output/github-contribution-grid-snake.svg">
