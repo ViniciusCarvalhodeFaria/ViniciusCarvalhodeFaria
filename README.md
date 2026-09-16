@@ -1,4 +1,4 @@
-### Olá! 👋 &nbsp;/&nbsp; Hi there! 👋
+### Olá! &nbsp;/&nbsp; Hi there!
 
 **🇧🇷 PT-BR** — Estudante de Engenharia da Computação, co-fundador e responsável pelo banco de dados da **[Efficience Co](https://github.com/EfficienceCo/EfficienceCo)**, startup que desenvolve automações sob medida para escritórios de contabilidade e back-office. Foco atual em modelagem de dados, PostgreSQL, Supabase e desenvolvimento backend.
 
